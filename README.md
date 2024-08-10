@@ -1,4 +1,4 @@
-# NCKH---NEU
+# NCKH - NEU
 
 Dự án NCKH của nhóm các bạn sinh viên DSEB64A
 
