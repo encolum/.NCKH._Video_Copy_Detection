@@ -1,7 +1,9 @@
 # Video Copy Detection (Updating)
-Dự án NCKH của nhóm các bạn sinh viên DSEB64A
+[Paper-Project] Video Copy Detection
 
 Topic: Video Matching
+
+Keywords: Video copy detection, Deep learning, AI
 
 Motivation:
 The booming of GenAI techniques has been opening up a new horizon for content creation. With the
