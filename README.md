@@ -26,4 +26,4 @@ In inference phase, we extract both query videos and reference videos into embed
 
 
 ****- Second: If the video is copied -> what segment? ( Updating )**
-** link infer: https://drive.google.com/drive/folders/1SGnS0WQhCcx-Ut39CUvWZVuylY8Ku92u?usp=sharing
+** link infer: https://drive.google.com/drive/folders/1SGnS0WQhCcx-Ut39CUvWZVuylY8Ku92u?usp=sharing **
